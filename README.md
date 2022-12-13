@@ -46,7 +46,7 @@ THEN the password is either displayed in an alert or written to the pages
 
 ## Photos
 
-<img width="1394" src="https://raw.githubusercontent.com/JEmmert10/SMU-Module-03-Challenge/main/Assets/images/vscode.jpg">
+<img width="1000" src="https://raw.githubusercontent.com/JEmmert10/SMU-Module-03-Challenge/main/Assets/images/vscode.jpg">
 
 ## Credits
 
